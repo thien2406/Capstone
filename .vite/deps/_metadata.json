@@ -1,0 +1,58 @@
+{
+  "hash": "5d0748fc",
+  "configHash": "340a3d5a",
+  "lockfileHash": "d972f3c4",
+  "browserHash": "495fa564",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "b9631a0c",
+      "needsInterop": false
+    },
+    "@meforma/vue-toaster": {
+      "src": "../../node_modules/@meforma/vue-toaster/src/index.js",
+      "file": "@meforma_vue-toaster.js",
+      "fileHash": "168dcf61",
+      "needsInterop": false
+    },
+    "v-calendar": {
+      "src": "../../node_modules/v-calendar/dist/es/index.js",
+      "file": "v-calendar.js",
+      "fileHash": "30fd828e",
+      "needsInterop": false
+    },
+    "laravel-echo": {
+      "src": "../../node_modules/laravel-echo/dist/echo.js",
+      "file": "laravel-echo.js",
+      "fileHash": "1c9d7ed4",
+      "needsInterop": false
+    },
+    "pusher-js": {
+      "src": "../../node_modules/pusher-js/dist/web/pusher.js",
+      "file": "pusher-js.js",
+      "fileHash": "098b092c",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "50f3508a",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "5279cea3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-SJGJBLN5": {
+      "file": "chunk-SJGJBLN5.js"
+    },
+    "chunk-HKJ2B2AA": {
+      "file": "chunk-HKJ2B2AA.js"
+    }
+  }
+}
