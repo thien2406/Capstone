@@ -4,7 +4,7 @@
 **Capstone** là dự án tốt nghiệp được xây dựng nhằm thể hiện kỹ năng lập trình.  
 Dự án bao gồm **Frontend** phát triển bằng **Vue.js** và **Backend** sử dụng **PHP (Laravel)**, kết hợp cơ sở dữ liệu MySQL.
 
-Mục tiêu của dự án là xây dựng một nền tảng web giúp người dùng **[mô tả ngắn gọn mục đích của web – ví dụ: đặt dịch vụ, thuê người giúp việc, quản lý sự kiện, v.v.]**.
+Mục tiêu của dự án là xây dựng một nền tảng web giúp người dùng.
 
 ---
 
